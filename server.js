@@ -16,6 +16,10 @@ app.get('/', (req, res) => {
   res.send('API is running...');
 });
 
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'ok' });
+});
+
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/tasks', require('./routes/taskRoutes'));
 
