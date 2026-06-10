@@ -33,11 +33,38 @@ The API focuses on simplicity and security. User passwords are safely hashed, ac
 - npm
 - MongoDB database (Atlas or local instance)
 
+
+
+📸 Screenshots
+🔐 Login Page
+
+https://github.com/user-attachments/assets/403662c4-56eb-460e-b617-b66152fdd9b8
+
+📝 Registration Page
+
+https://github.com/user-attachments/assets/c7383103-3082-46be-a617-420d22b2a26d
+
+📊 Dashboard
+
+https://github.com/user-attachments/assets/cae49a37-ed03-49c3-8860-101645fcd047
+
+🔍 Task Status & Search
+
+https://github.com/user-attachments/assets/146d3600-5f77-48a0-a3f2-b49c3a49635a
+
+✏️ Update Tasks
+
+https://github.com/user-attachments/assets/0c9e7b94-be71-4846-bd33-fe1381baf02e
+
+🗑️ Delete Tasks
+
+https://github.com/user-attachments/assets/96a8c955-3fb1-482c-8040-7fa73e4477b3
+
+✅ Complete Tasks
+
+https://github.com/user-attachments/assets/c9e5f3e7-c369-43a6-9dc0-ab721e47be24
+
 ### Installation
-
-screenshots: <login page>
-<img width="1695" height="754" alt="Image" src="https://github.com/user-attachments/assets/28f5500d-a6ee-4648-ba81-5a472c3562f4" />
-
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/task-manager-api.git
