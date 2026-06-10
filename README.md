@@ -35,6 +35,9 @@ The API focuses on simplicity and security. User passwords are safely hashed, ac
 
 ### Installation
 
+screenshots: <login page>
+<img width="1695" height="754" alt="Image" src="https://github.com/user-attachments/assets/28f5500d-a6ee-4648-ba81-5a472c3562f4" />
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/task-manager-api.git
@@ -58,3 +61,5 @@ npm start
 
 
 Server will start at http://localhost:5000
+
+
